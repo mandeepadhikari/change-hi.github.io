@@ -1,6 +1,6 @@
 ---
 title: "Best Recipe Ever"
-published: false
+published: true
 morea_coming_soon: false
 morea_id: best-recipe-ever
 morea_outcomes:
@@ -22,4 +22,4 @@ morea_labels:
 morea_sort_order: 9
 ---
 
-How to make the best recipe ever!
+How to make the best Butter Chicken ever!

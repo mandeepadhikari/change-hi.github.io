@@ -14,8 +14,12 @@ morea_labels:
 Break into small groups. Try to find people you haven't met yet for your group.
 
 Task: 
+1. Introduce yourself to the team members.
+2. Make a list of  different restaurants you visited in the past
+3. Talk about your favorite reciepie Butter chicken
+4. If you have future plan to open a restuaunt for Butter chicken
 
-*Replace this sentence with a description of your "ice breaker". Think of a short, entertaining exercise that helps Data Fellows learn about each other.* 
+*Talk about why Butter Chicken is your best reciepie in Hawaii.* 
 
 {% include next-button.html
 top-label="2. Shop for the best recipe ever ->"

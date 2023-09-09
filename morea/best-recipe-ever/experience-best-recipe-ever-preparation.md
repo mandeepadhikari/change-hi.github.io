@@ -12,7 +12,14 @@ morea_labels:
 
 # 3. Prepare the best recipe ever
 
-*Replace this sentence with your instructions on how to prepare the best recipe ever. You might want to include some links or photos to help with the instructions.*
+*First we need some ingredients*
+- Butter 
+- Chicken Breast
+- Salt
+- Ginger
+- Garlic
+- Oil
+- Condiments
 
 
 {% include next-button.html 
